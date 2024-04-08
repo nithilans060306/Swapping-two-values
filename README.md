@@ -30,7 +30,7 @@ b = temp
 print(f"Swapped values are: {a} {b}")
 ```
 ## OUTPUT:
-![Screenshot 2024-03-09 094626](https://github.com/nithilans060306/Swapping-two-values/assets/147473026/ade905a5-eb05-48a8-ab8a-71ab475919cc)
+![Exp1](image.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
